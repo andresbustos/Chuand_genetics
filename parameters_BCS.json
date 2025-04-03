@@ -1,0 +1,16 @@
+{
+"outfolder":"tests",
+"infolder":"reads_examples_04",
+"analyze_fastqs":false,
+"merge_fastqs":false,
+"search_lib":false,
+"find_coincidences":true,
+"lib_string":"CAATTGTAANNATCNNGATSSAAANNGGTNNAACNNTGTAAAACG",
+"pos_interval":[90,188],
+"BCS_threshold":0,
+"N_barplot":10,
+"Ref_fastq":"BC6 1000 F R1.fastq",
+"List_fastqs":["BC6 1000 F R1.fastq","BC6 3000 F R1.fastq","BC7 CB1 1000 F R1.fastq","BC7 CB1 3000 F R1.fastq","BC7 CB2 1000 F R1.fastq",
+	"BC7 CB2 3000 F R1.fastq","BC6 2000 F R1.fastq","BC6 300 F R1.fastq","BC7 CB1 2000 F R1.fastq","BC7 CB1 300 F R1.fastq","BC7 CB2 2000 F R1.fastq","BC7 CB2 300 F R1.fastq"]
+
+}

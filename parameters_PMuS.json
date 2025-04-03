@@ -1,0 +1,14 @@
+{
+"outfolder":"Feb2021_PMuS",
+"infolder":"../FastqDec2020/Cosanueva/",
+"analyze_fastqs":false,
+"merge_fastqs":false,
+"pos_interval":[40,130],
+"rep_filter_thr":0.1,
+"dict_conf":{
+"1003":{"mutation":{"GTG":"WT", "ATG":"AM", "GTA":"HDR"},"dir":"../FastqDec2020/Cosanueva/1003",
+ "bc": "cggcatcatgXgcacgggg"  },
+ "1456":{"mutation":{"CGG":"WT","TGG":"MA","CGA":"HDR"}, 
+ "dir": "../FastqDec2020/Cosanueva/1456", "bc":"gcttctgtctXtaccgacc"}
+  }
+}
